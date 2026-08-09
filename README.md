@@ -1,4 +1,4 @@
-# Sanyi-_The_Assistant
+# Sanyi_The_Assistant
 
 ## Description
 
